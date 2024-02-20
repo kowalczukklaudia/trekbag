@@ -1,3 +1,7 @@
+# Trekbag
+Simple checklist for trip-planning.
+(some new features will be added soon)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
